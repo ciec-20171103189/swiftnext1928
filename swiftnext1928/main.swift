@@ -10,3 +10,6 @@ import Foundation
 
 print("Hello, World!")
 
+for i 1...10{
+    
+}
